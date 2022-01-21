@@ -30,7 +30,7 @@ No requirements.
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 3.72.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | 3.73.0 |
 
 ## Modules
 
@@ -68,8 +68,8 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_lb_arn"></a> [lb\_arn](#output\_lb\_arn) | Load Balancer arn. |
-| <a name="output_lb_id"></a> [lb\_id](#output\_lb\_id) | Load Balancer id. |
-| <a name="output_lb_tg_arn"></a> [lb\_tg\_arn](#output\_lb\_tg\_arn) | Load Balancer target group arn. |
-| <a name="output_lb_tg_id"></a> [lb\_tg\_id](#output\_lb\_tg\_id) | Load Balancer target group id. |
+| <a name="output_arn"></a> [arn](#output\_arn) | Load Balancer arn. |
+| <a name="output_id"></a> [id](#output\_id) | Load Balancer id. |
+| <a name="output_tg_arn"></a> [tg\_arn](#output\_tg\_arn) | Load Balancer target group arn. |
+| <a name="output_tg_id"></a> [tg\_id](#output\_tg\_id) | Load Balancer target group id. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
