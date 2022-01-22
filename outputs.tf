@@ -18,3 +18,8 @@ output "tg_arn" {
   description = "Load Balancer target group arn."
   value       = aws_lb_target_group.this.arn
 }
+
+output "tg_name" {
+  description = "Load Balancer target group name."
+  value       = local.tg_name
+}

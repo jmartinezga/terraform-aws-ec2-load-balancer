@@ -72,4 +72,5 @@ No modules.
 | <a name="output_id"></a> [id](#output\_id) | Load Balancer id. |
 | <a name="output_tg_arn"></a> [tg\_arn](#output\_tg\_arn) | Load Balancer target group arn. |
 | <a name="output_tg_id"></a> [tg\_id](#output\_tg\_id) | Load Balancer target group id. |
+| <a name="output_tg_name"></a> [tg\_name](#output\_tg\_name) | Load Balancer target group name. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
